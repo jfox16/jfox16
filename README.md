@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Jonathan!
 I'm a programmer with a passion for using technology to make people's lives easier. I love learning how things work and collaborating with people.
 
+---
+
 <!--
 **jfox16/jfox16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
