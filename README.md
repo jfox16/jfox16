@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jonathan!
+### 👋 Hi there, I'm Jonathan!
 I'm a programmer with a passion for using technology to make people's lives easier. I love learning how things work and collaborating on projects with people.
 
 ---
@@ -7,7 +7,7 @@ I'm a programmer with a passion for using technology to make people's lives easi
 **jfox16/jfox16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on: HSLookup & Lambda School Projects
+- 🔭 I’m currently working on: Sumo Logic
 - 🌱 I’m currently learning: Full Stack Web Development
 - 🤔 I’m looking for help with: Mastering networking!
 - 💬 Ask me about: Building a website with a great user experience
