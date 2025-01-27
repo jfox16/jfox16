@@ -9,7 +9,7 @@ I'm a programmer with a passion for using technology to make people's lives easi
 
 - 🔭 I’m currently working on:
   - [HSLookup](https://hslookup.net): Full stack React and Express app for viewing Hearthstone cards and showing stats on them
-  - ClassPointTracker: Front-end app for tracking points of students in a class. Configurable layout and intuitive to use
+  - ClassPointTracker: Front-end app for teachers to track points of students in a class. Configurable layout and intuitive to use
 - 🌱 I’m currently learning: Full Stack Web Development
 - 💬 Ask me about: How to build performant web apps with excellent UX
 - 🤔 I’m looking for help with: How to be a the best UI engineer
