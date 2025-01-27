@@ -12,4 +12,4 @@ I'm a programmer with a passion for using technology to make people's lives easi
 - 🤔 I’m looking for help with: How to be a the best UI engineer
 - 💬 Ask me about: How to build performant web apps with excellent UX
 - 📫 How to reach me: Email me! FoxJonathanP@gmail.com
-- ⚡ Fun fact: I've watched Arrested Development 3x. BEES?? 🐝🐝🐝🐝
+- ⚡ Fun fact: I've watched through Arrested Development 3 times. BEES?? 🐝🐝🐝🐝
