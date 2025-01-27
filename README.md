@@ -10,6 +10,6 @@ I'm a programmer with a passion for using technology to make people's lives easi
 - 🔭 I’m currently working on: [HSLookup](https://hslookup.net)! Helping people improve their Hearthstone gameplay with statistics!
 - 🌱 I’m currently learning: Full Stack Web Development
 - 🤔 I’m looking for help with: How to be a the best UI engineer
-- 💬 Ask me about: Building a highly functional, performant website with great UX
+- 💬 Ask me about: How to make websites easier to use
 - 📫 How to reach me: Email me! FoxJonathanP@gmail.com
 - ⚡ Fun fact: I've watched Arrested Development 3x. BEES?? 🐝🐝🐝🐝
