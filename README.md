@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Jonathan!
-I'm a programmer with a passion for using technology to make people's lives easier. I love tackling hard problems, learning how things work, making things easier to use, and collaborating with a great team!
+I'm a programmer with a passion for using technology to make people's lives easier. I love tackling hard problems, learning how things work, making things easier to use, and collaborating with a good team!
 
 ---
 
@@ -7,7 +7,9 @@ I'm a programmer with a passion for using technology to make people's lives easi
 **jfox16/jfox16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on: [HSLookup](https://hslookup.net)! Helping people improve their Hearthstone gameplay with statistics!
+- 🔭 I’m currently working on:
+  - [HSLookup](https://hslookup.net): Full stack React and Express app for viewing Hearthstone cards and showing stats on them
+  - ClassPointTracker: Front-end app for tracking points of students in a class. Configurable layout and intuitive to use
 - 🌱 I’m currently learning: Full Stack Web Development
 - 💬 Ask me about: How to build performant web apps with excellent UX
 - 🤔 I’m looking for help with: How to be a the best UI engineer
