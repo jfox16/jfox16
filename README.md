@@ -14,4 +14,4 @@ I'm a programmer with a passion for using technology to make people's lives easi
 - 💬 Ask me about: How to build performant web apps with excellent UX
 - 🤔 I’m looking for help with: How to be a the best UI engineer
 - 📫 How to reach me: Email me! FoxJonathanP@gmail.com
-- ⚡ Fun fact: I've watched Breaking Bad and Better Call Saul all the way through, twice each. Excellent shows!
+- ⚡ Fun fact: I've watched Arrested Development through 3 times. BEADS? BEES??
