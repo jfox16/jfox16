@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Jonathan!
+### 👋 Hey, I'm Jonathan!
 I'm a programmer with a passion for using technology to make people's lives easier. I love tackling hard problems, learning how things work, making things easier to use, and collaborating with a good team!
 
 ---
